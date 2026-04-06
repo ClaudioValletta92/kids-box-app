@@ -34,3 +34,7 @@ pnpm-debug.log*
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+# Supabase local dev
+supabase/.branches
+supabase/.temp
